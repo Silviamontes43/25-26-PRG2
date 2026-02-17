@@ -1,3 +1,7 @@
+
+
+	
+	
 import java.util.Scanner;
 public class buscaminas{
     static final int FILAS = 5;
@@ -76,12 +80,6 @@ public class buscaminas{
         System.out.println("================");
     }
 }
-
-
-#Buscaminas completo
-
-	
-	
 		
 	
 	
