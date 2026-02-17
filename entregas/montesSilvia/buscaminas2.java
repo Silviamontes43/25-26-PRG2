@@ -80,7 +80,3 @@ public class buscaminas{
         System.out.println("================");
     }
 }
-		
-	
-	
-	
