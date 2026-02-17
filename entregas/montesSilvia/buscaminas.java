@@ -42,7 +42,7 @@ public class buscaminas{
             int posY = sc.nextInt() - 1;
 
             if (tablero[posX][posY].equals("M")) {
-                System.out.println("💥 Mina!");
+                System.out.println(" Mina!");
                 visible[posX][posY] = "*";
                 minasExplotadas++;
             } else {
