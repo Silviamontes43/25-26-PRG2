@@ -22,7 +22,7 @@ class Intervalo {
     public void oponer()
     public void doblar()
     public void mostrar()
-    public void editar()
+    public void recoger()
 
     public Intervalo[] trocear(int numeroTrozos)
     public Intervalo union(Intervalo intervalo)
